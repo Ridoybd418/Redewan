@@ -1,16 +1,4 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png” group-title=”Bangla”, Sony aat
-https://tvs1.aynaott.com/Sony8/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png” group-title=”Bangla”, Sony aat
-https://tvs2.aynaott.com/ZeeBanglaHD/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png” group-title=”Bangla”, Sony aat
-https://tvs1.aynaott.com/ColorsBangla/index.m3u8
-
-
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/zee_bangla_160/zee_bangla_160.m3u8
